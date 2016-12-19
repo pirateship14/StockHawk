@@ -13,4 +13,5 @@
 
     <string name="symbol_name_key">Symbol</string>
     <string name="widget_title">Stock Hawk</string>
+    <string name="add_stock_desc">Add a new stock</string>
 </resources>
